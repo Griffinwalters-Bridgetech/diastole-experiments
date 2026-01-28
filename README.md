@@ -108,8 +108,8 @@ Pre-run results are available in [Releases](../../releases) for reference; run t
 
 ## Related Work
 
-- [Artificial Diastole Whitepaper](link-to-paper) — Full theoretical framework
-- [Bridge OS Architecture](link-to-bridge-os) — Infrastructure implementing .03 principle
+- [Artificial Diastole Whitepaper](./ARTIFICIAL_DIASTOLE_COMPREHENSIVE.pdf)
+- [Bridge OS Architecture](./BRIDGE_OS_ARCHITECTURE_BRIEF.pdf)
 
 ## License
 
